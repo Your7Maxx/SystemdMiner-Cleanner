@@ -1,8 +1,8 @@
 # SystemdMiner-Cleaner
-## What is it
+## What
 Quick clean bash for cleaning SystemdMiner virus.
 
-## How to use
+## How
 [1] git clone https://github.com/Maxx200014/SystemdMiner-Cleaner.git 
 
 
