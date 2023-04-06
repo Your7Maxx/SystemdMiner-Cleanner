@@ -1,5 +1,5 @@
 # SystemdMiner-Cleaner
-## what is it
+## What is it
 Quick clean bash for cleaning SystemdMiner virus.
 
 ## How to use
