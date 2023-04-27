@@ -1,5 +1,5 @@
 #! /bin/bash
-#By Maxx
+#By Maxx7
 
 tempFile=`mktemp`
 cat <<EOF >>$tempFile
